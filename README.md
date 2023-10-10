@@ -10,6 +10,7 @@ A consumer finance company which specialises in lending various types of loans t
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
+* [Team](#team)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
@@ -73,7 +74,11 @@ Utility
 
 
 ## Contact
-Created by [@bibhutiranjansinha] - feel free to contact me!
+* [Bibhuti Ranjan Sinha](https://www.linkedin.com/in/bibhutiranjansinha/) - feel free to contact me!
+
+## team
+* [Bibhuti Ranjan Sinha](https://github.com/bibhutiranjansinha)
+* [Heena Jain](https://github.com/Jheena-20/)
 
 
 <!-- Optional -->
