@@ -75,6 +75,7 @@ Utility
 
 ## Contact
 * [Bibhuti Ranjan Sinha](https://www.linkedin.com/in/bibhutiranjansinha/) - feel free to contact me!
+* [Heena Jain](https://www.linkedin.com/in/heena-s-jain/) - feel free to contact me!
 
 ## team
 * [Bibhuti Ranjan Sinha](https://github.com/bibhutiranjansinha)
