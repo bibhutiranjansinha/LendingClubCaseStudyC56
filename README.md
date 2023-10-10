@@ -77,9 +77,6 @@ Utility
 * [Bibhuti Ranjan Sinha](https://www.linkedin.com/in/bibhutiranjansinha/) 
 * [Heena Jain](https://www.linkedin.com/in/heena-s-jain/)
 
-## team
-* [Bibhuti Ranjan Sinha](https://github.com/bibhutiranjansinha)
-* [Heena Jain](https://github.com/Jheena-20/)
 
 
 <!-- Optional -->
