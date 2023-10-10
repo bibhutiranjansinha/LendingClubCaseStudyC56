@@ -10,7 +10,7 @@ A consumer finance company which specialises in lending various types of loans t
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
-* [Team](#team)
+* [Contacts](#contacts)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
@@ -73,7 +73,7 @@ Utility
 - This project was while doing MS in Artificial Intelligence and Machine Learning from IIIT Bangalore
 
 
-## Contact
+## Contacts
 * [Bibhuti Ranjan Sinha](https://www.linkedin.com/in/bibhutiranjansinha/) 
 * [Heena Jain](https://www.linkedin.com/in/heena-s-jain/)
 
