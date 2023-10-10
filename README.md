@@ -73,7 +73,7 @@ Utility
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@bibhutiranjansinha] - feel free to contact me!
 
 
 <!-- Optional -->
